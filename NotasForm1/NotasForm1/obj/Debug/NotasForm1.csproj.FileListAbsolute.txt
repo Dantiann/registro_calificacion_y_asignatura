@@ -1,0 +1,43 @@
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe.config
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\bin\Debug\NotasForm1.pdb
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.frmEstudiantes.resources
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.Properties.Resources.resources
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\source\repos\NotasForm1\NotasForm1\obj\Debug\NotasForm1.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.frmEstudiantes.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.pdb
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe.config
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\bin\Debug\NotasForm1.pdb
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.AssemblyReference.cache
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.SuggestedBindingRedirects.cache
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.frmEstudiantes.resources
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.Properties.Resources.resources
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.GenerateResource.cache
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.CoreCompileInputs.cache
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.exe
+D:\User\Descargas\C#_Windows_Forms\NotasForm1\NotasForm1\obj\Debug\NotasForm1.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\bin\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\bin\Debug\NotasForm1.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.frmEstudiantes.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\NotasForm1\NotasForm1\obj\Debug\NotasForm1.pdb
